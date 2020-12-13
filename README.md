@@ -1,2 +1,2 @@
 # hello-world
-my first well done repository.
+Hey! I'm Mave from Internet and you're watching CoderChannel!
